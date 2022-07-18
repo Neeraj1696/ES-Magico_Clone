@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <>
-      <div className="footer text-white bg-slate-900 pt-20 ">
+      <div className="footer text-white bg-slate-900 pt-20 w-full ">
         <div>
           <div className="heading_left ">
             <span className="text-5xl font-bold ml-72   ">Let's start</span>
